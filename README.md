@@ -14,3 +14,7 @@ The Cold Email Generator is a powerful tool designed specifically for students l
 2. Extract Listings: The tool scrapes the job listings from the provided page.
 3. Generate Emails: Based on the job descriptions, personalized cold emails are generated.
 4. Add Portfolio and Project Links: Relevant links from a vector database are included to showcase your projects.
+
+
+
+![Image 0](https://github.com/user-attachments/assets/1646477a-3fca-4727-9494-8bdeccc3c311)
