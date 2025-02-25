@@ -5,7 +5,7 @@ from chains import Chain
 from portfolio import Portfolio
 from utils import clean_text
 
-#cold email generator
+#layout of the streamlit page
 st.set_page_config(layout="wide", page_title="Cold E-mail Generator", page_icon="📧")
 
 st.markdown(
